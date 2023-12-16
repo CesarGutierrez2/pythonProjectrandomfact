@@ -1,0 +1,6 @@
+import randfacts as rf
+
+print("Random Facts")
+x = ''
+
+while x == ' '
